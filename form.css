@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: rgba(8, 69, 78);
+}
+form{
+    border: 2px solid black;
+    text-align: center;
+    margin-right:330px ;
+    margin-left: 330px;
+    height: 400px;
+    border-color: rgb(28, 30, 7);
+}
+#username,#email,#date,#password,#submit,#feedback{
+    width: 300px;
+    height: 25px ;
+    border-color: rgb(14, 161, 161);
+    border-style: dotted;
+}
+#date{
+    height: 30px;
+}
+#submit{
+    height: 30px;
+    width: 310px;
+}
+#feedback{
+    border: 2px dotted rgb(14, 161, 161);
+}
+form{
+    background-color: rgba(32, 129, 131, 0.45);
+    r
+}
+b{
+    color: white;
+}
